@@ -44,4 +44,3 @@ https://drive.google.com/file/d/1E-siEpMUZjc9O_OU5gplQ-pnsDxKLfp_/view?usp=shari
 https://assetstore.unity.com/packages/templates/packs/obstacle-course-pack-178169
 
 ## Vídeo da Cena
-<video src="video/gameplay.mp4" type="video/mp4" controls="true"></video>
