@@ -1,9 +1,6 @@
 # UnityColliders
 Esse projeto é um cena com obstáculos feito no Unity utilizando a linguagem C# onde são aplicados os conceitos de colisão e gatilho.
 
-## Autores
-Mariana Santiago e Yuri Telis
-
 ## Colliders e Triggers
 ### Colliders
 Os colisores são o que impede que um corpo atravesse outro, a Unity utiliza esse conceito, anexando-os aos GameObjects, definindo a colisão física destes, e o desenvolvedor modela para que o colisor fique com o formato mais parecido possível do GameObject para que não fique muito aparente na hora de jogar.
@@ -42,5 +39,7 @@ Os GameObjects foram criados e colocados na cena, como o chão, o personagem do 
 ## Link do Drive e do Asset Usado
 https://drive.google.com/file/d/1E-siEpMUZjc9O_OU5gplQ-pnsDxKLfp_/view?usp=sharing
 https://assetstore.unity.com/packages/templates/packs/obstacle-course-pack-178169
+https://drive.google.com/file/d/1sf_-fUJc5IZOF3G79ADFxncYX0ISpupu/view?usp=drive_link
 
-## Vídeo da Cena
+## Autores
+Mariana Santiago e Yuri Telis
