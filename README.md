@@ -36,10 +36,15 @@ Esse gatilho é um Kinematic Rigidbody Collider com a propriedade Is Trigger ati
 Os GameObjects foram criados e colocados na cena, como o chão, o personagem do usuário e os GameObjects que receberam os colisores e os gatilhos. É adicionando os componentes em cada objeto que define sua cor, o rigidbody (dos objetos que o possuem), coloca o colisor e, nas propriedades do colisor, define se é ou não um gatilho.
 <br> <img src="img/objetos.jpg">
 
-## Link do Drive e do Asset Usado
+## Link da Cena no Drive, do Vídeo no Drive e do Asset Usado
+Cena:
 https://drive.google.com/file/d/1E-siEpMUZjc9O_OU5gplQ-pnsDxKLfp_/view?usp=sharing
-https://assetstore.unity.com/packages/templates/packs/obstacle-course-pack-178169
+
+Vídeo:
 https://drive.google.com/file/d/1sf_-fUJc5IZOF3G79ADFxncYX0ISpupu/view?usp=drive_link
+
+Asset usado:
+https://assetstore.unity.com/packages/templates/packs/obstacle-course-pack-178169
 
 ## Autores
 Mariana Santiago e Yuri Telis
