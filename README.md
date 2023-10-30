@@ -1,5 +1,5 @@
 # UnityColliders
-Esse projeto é um cena com obstáculos feito no Unity utilizando a linguagem C# onde são aplicados os conceitos de colisão e gatilho.
+Esse projeto é uma cena com obstáculos feito no Unity utilizando a linguagem C# onde são aplicados os conceitos de colisão e gatilho.
 
 ## Colliders e Triggers
 ### Colliders
